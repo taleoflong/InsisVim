@@ -44,7 +44,7 @@ https://github.com/nshen/InsisVim/assets/181506/ad36e1b1-05f6-47e9-bf2e-6738f539
 1. 克隆本项目到 Neovim 配置目录
 
 ```lua
-git clone https://github.com/nshen/InsisVim.git ~/.config/nvim
+git clone https://github.com/taleoflong/InsisVim.git ~/.config/nvim
 ```
 
 2. 运行 `nvim` ，等待插件全部安装完成
