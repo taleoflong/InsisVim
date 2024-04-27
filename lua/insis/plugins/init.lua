@@ -231,6 +231,7 @@ return {
   { "b0o/schemastore.nvim" },
   -- Rust
   { "simrat39/rust-tools.nvim" },
+  { "rust-lang/rust.vim" },
   -- Java
   { "mfussenegger/nvim-jdtls" },
 
