@@ -4,13 +4,17 @@
 
 ```lua
 require("insis").setup({
-  golang = {
-    enable = true,
-    lsp = "gopls",
-    linter = "golangci-lint",
-    formatter = "gofmt",
-    format_on_save = true,
-  },
+    golang = {
+        enable = true,
+        lsp = "gopls",
+        linter = "golangci-lint",
+        formatter = "gofmt",
+        format_on_save = true,
+    },
+    rust = {
+        enable = true,
+        format_on_save = true,
+    },
 })
 ```
 
